@@ -1,0 +1,66 @@
+/* Navbar */
+.navbar {
+	background: linear-gradient(black, navy);
+}
+
+.navbar a {
+	color: antiquewhite;
+	margin-left: 20px;
+}
+
+.navbar a i {
+	margin-right: 40px;
+	margin-left: 40px;
+}
+
+.navbar .container-fluid form {
+	margin-right: 50px;
+}
+
+.navbar form button {
+	color: antiquewhite;
+}
+
+/* Jumbotron */
+.hero {
+	background-image: url(img/jumbotron.jpg);
+	height: 612px;
+	color: antiquewhite;
+	background-size: cover;
+	background-position-y: -80px;
+	position: relative;
+}
+
+.hero .jumbotron {
+	padding-top: 140px;
+}
+
+.hero .jumbotron .lead {
+	padding-top: 90px;
+}
+
+.hero .jumbotron a {
+	margin-top: 20px;
+	color: antiquewhite;
+}
+/* pesanan */
+.pesanan {
+	color: #c4a484;
+	background: linear-gradient(black, navy);
+}
+
+/* footer */
+footer {
+	width: auto;
+	height: 50px;
+	background-color: black;
+}
+
+footer p {
+	color: antiquewhite;
+	padding-top: 15px;
+}
+
+footer p a {
+	text-decoration: none;
+}

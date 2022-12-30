@@ -1,0 +1,43 @@
+/* Navbar */
+.navbar {
+	background: linear-gradient(black, navy);
+}
+
+.navbar a {
+	color: antiquewhite;
+	margin-left: 20px;
+}
+
+.navbar a i {
+	margin-right: 40px;
+	margin-left: 40px;
+}
+
+.navbar .container-fluid form {
+	margin-right: 50px;
+}
+
+.navbar form button {
+	color: antiquewhite;
+}
+/* jumbotron */
+
+.jumbotron {
+	margin-top: 20px;
+}
+
+/* footer */
+footer {
+	width: auto;
+	height: 50px;
+	background-color: black;
+}
+
+footer p {
+	color: antiquewhite;
+	padding-top: 15px;
+}
+
+footer p a {
+	text-decoration: none;
+}
